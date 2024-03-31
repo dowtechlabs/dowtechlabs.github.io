@@ -1,40 +1,33 @@
-title: Nuxt UI Pro - SaaS template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: Homestud
+description: Real management software for real estate companies.
 navigation: false
 hero:
-  title: Build your SaaS in seconds
-  description: This template demonstrates most of Nuxt UI Pro's components. It's a great starting point to build your own SaaS.
+  title: Real estate management made seamless.
+  description: Start managing properties, tenants, and payments with ease.
   headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
-    icon: i-heroicons-arrow-top-right-on-square-20-solid
+    label: Proundly Ghanaian!
+    icon: i-heroicons-check
   links:
-    - label: Get started
+    - label: Request a Demo
       to: '/signup'
       size: xl
       color: black
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-    - label: Use this template
-      icon: i-simple-icons-github
-      size: xl
-      color: gray
-      to: https://github.com/nuxt-ui-pro/saas
-      target: _blank
 sections:
-  - title: The power of our service
-    description: Aliqua labore laboris fugiat. Reprehenderit exercitation eu commodo. Officia nostrud sit et aliqua ea ex sunt minim incididunt sunt.
+  - title: Comprehensive property management
+    description: Say goodbye to spreadsheets and hello to a comprehensive property management solution.
     id: features
     align: left
     features:
-      - name: Easy to use
-        description: Id laborum laboris duis nostrud excepteur ut velit.
+      - name: Track leases
+        description: Keep track of lease agreements, renewals, and terminations.
         icon: i-heroicons-cog
-      - name: Reliable
-        description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+      - name: Manage tenants
+        description: Manage tenant information, payments, and communication.
         icon: i-heroicons-check
-      - name: Secure
-        description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing.
+      - name: Payments
+        description: Set up payment schedules, track payments, and send reminders. All automated!
         icon: i-heroicons-lock-closed
     links:
       - label: Explore components
@@ -44,18 +37,18 @@ sections:
         trailing: true
         size: md
         class: ml-8
-  - title: The speed of our service
-    description: Cillum sint enim excepteur ut deserunt qui nisi in deserunt in. Deserunt aliquip quis aliquip eu quis ex velit velit nostrud sit.
+  - title: Financial Insights
+    description: Get a clear overview of your financials with our easy-to-use dashboard.
     align: right
     features:
-      - name: Fast
-        description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod.
+      - name: Track expenses
+        description: Keep track of all your expenses in one place.
         icon: i-heroicons-rocket-launch
-      - name: Affordable
-        description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+      - name: Income reports
+        description: Generate income reports to get a clear overview of your financials.
         icon: i-heroicons-currency-dollar
-      - name: Scalable
-        description: Lorem deserunt et eiusmod. Ea in consectetur minim officia.
+      - name: Generate invoices
+        description: Create and send invoices to tenants or vendors with ease.
         icon: i-heroicons-chart-bar
     links:
       - label: Learn more
@@ -66,27 +59,24 @@ sections:
         size: md
         class: ml-8
 features:
-  title: Why choose our service?
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  title: All the tools you need to manage your properties in one place.
+  description: Make managing your properties a breeze with our easy-to-use software.
   items:
-    - title: Easy to use
-      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+    - title: Leasing
+      description: Manage lease agreements, renewals, and terminations.
       icon: i-heroicons-cog
-    - title: Reliable
-      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+    - title: Rent collection
+      description: Set up automated reminders and payment schedules.
       icon: i-heroicons-check
-    - title: Secure
-      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+    - title: Communication
+      description: Keep track of all communication with tenants and vendors.
       icon: i-heroicons-lock-closed
-    - title: Fast
-      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+    - title: Financials
+      description: Replace spreadsheets with our easy-to-use dashboard for financial insights.
       icon: i-heroicons-rocket-launch
-    - title: Affordable
-      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+    - title: Listings
+      description: Create and manage property listings with ease.
       icon: i-heroicons-currency-dollar
-    - title: Scalable
-      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
-      icon: i-heroicons-chart-bar
 testimonials:
   headline: Testimonials
   title: What our customers are saying.
@@ -136,9 +126,9 @@ testimonials:
           loading: lazy
 cta:
   title: Get started today
-  description: Nisi mollit id aliquip sunt est laborum sit sit.
+  description: Our sales team is ready to help you get started with Homestud.
   links:
-    - label: Buy now
+    - label: Book a demo!
       size: xl
       color: black
       to: /pricing
