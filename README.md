@@ -1,31 +1,24 @@
-<h1>Ada</h1>   
+# Skilline Landing Page
+Free landing page template built on top of TailwindCSS
 
-A Modern Landing page template built with Tailwindcss and Tailus Themer
+> [LIVE DEMO](https://mhaecal.github.io/frontend/skilline)
 
-<img src="public/cover.png" />
+![alt Free Tailwind Landing Page Template](https://i.postimg.cc/q7xRmNVp/FB-IMG-16158730841972067.jpg)
 
-## Features 
+## Built with:
+- Tailwind CSS ^2.0
+- Alpine JS ^2.*
+- AOS - Animate on scroll library
 
-* Modern
-* Responsive
-* Fully Customizable
-* Easy to use
-* Dark Mode
-* Bento Box
+## Getting Started
+The template is just a HTML file using a CDN service
 
-## Build Setup
+`git clone https://github.com/mhaecal/skilline-landing-page.git`
 
-```bash
-# install dependencies
-$ npm install
-# serve with hot reload at localhost:3000
-$ npm run dev
-# build for production and launch server
-$ npm run build
-# preview production
-$ npm run preview
-```
+#
+Use it for learn, but please don’t republish, redistribute, or resell the template.
 
-## Customization
-* [Palette](https://beta.tailus.io/docs/customization/palette/) to learn how to customize the color palette.
-* [Plugin](https://beta.tailus.io/docs/customization/plugin/) to learn how to customize the theme.
+For personal or commersial project, just contact [Irvan Moses](https://www.facebook.com/irvan.moses)
+
+- Code by mhaecal
+- UI/UX by irvanmoses
